@@ -1,5 +1,6 @@
-## Haii
+<h1 align="center">Hi, I'm KyuuRzy 👋🏼</h1>
 
+```javascript
 class Profile {
   constructor(name, hobby) {
     this.name = name;
@@ -7,12 +8,9 @@ class Profile {
   }
 }
 
-const profile = new Profile('Hyuu', 'Turu');
+const profile = new Profile('KyuuRzy', 'Turu');
 
 console.log(`Name: ${profile.name}`);
 console.log(`Hobby: ${profile.hobby}`);
+```
 
-<!---
-kiuur/kiuur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
