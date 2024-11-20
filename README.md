@@ -1,17 +1,5 @@
 # Hi, I'm KyuuRzy 👋🏼
 
-<div style="display: flex; align-items: flex-start; gap: 50px; margin-bottom: 50px;">
-  <img src="https://pomf2.lain.la/f/zp8as3kp.jpg" alt="Song Image" width="200" style="border-radius: 50px;">
-  <div>
-    <h2>🎵 Line Without a Hook - Ricky Montgomery</h2>
-    <p>"Oh, baby, I am a wreck when I'm without you<br>
-    I need you here to stay"</p>
-    <p><i>A poignant indie pop song capturing the essence of emotional dependency and vulnerability in love.</i></p>
-  </div>
-</div>
-
-## 🧑‍💻 Self-Introduction
-
 ```javascript
 class Person {
   #quote = "Among a thousand stars, only one I like ✨";
