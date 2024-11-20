@@ -4,11 +4,6 @@
 
 ## 🎵 Featured Song: Line Without a Hook
 
-### Lyrics Translation:
-```Oh, baby, I am a wreck when I'm without you``` 
-
-```I need you here to stay```
-
 These lyrics beautifully capture the essence of deep emotional attachment and vulnerability. The singer expresses how incomplete and broken they feel without their loved one, reflecting the universal human experience of profound connection and dependency in love.
 
 ## 🧑‍💻 Self-Introduction (in JavaScript)
