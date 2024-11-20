@@ -1,7 +1,7 @@
 # Hi, I'm KyuuRzy 👋🏼
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
-  <img src="https://pomf2.lain.la/f/zp8as3kp.jpg" alt="Song Image" width="200" style="border-radius: 10px;">
+  <img src="https://pomf2.lain.la/f/zp8as3kp.jpg" alt="Song Image" width="800" style="border-radius: 10px;">
   <div>
     <h2>🎵 Line Without a Hook - Ricky Montgomery</h2>
     <p>"Oh, baby, I am a wreck when I'm without you<br>
