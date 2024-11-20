@@ -1,6 +1,6 @@
 # Hi, I'm KyuuRzy 👋🏼
 
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
+<div style="display: flex; align-items: flex-start; gap: 50px; margin-bottom: 50px;">
   <img src="https://pomf2.lain.la/f/zp8as3kp.jpg" alt="Song Image" width="200" style="border-radius: 50px;">
   <div>
     <h2>🎵 Line Without a Hook - Ricky Montgomery</h2>
