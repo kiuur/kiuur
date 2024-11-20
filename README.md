@@ -4,7 +4,12 @@
 
 ## 🎵 Featured Song: Line Without a Hook
 
-"Line Without a Hook" by Ricky Montgomery is a poignant indie pop song that captures the essence of longing and dependency in a relationship. The lyrics "Oh, baby, I am a wreck when I'm without you, I need you here to stay" eloquently express the emotional vulnerability and attachment the singer feels towards their loved one.
+### Lyrics Translation:
+```Oh, baby, I am a wreck when I'm without you``` 
+
+```I need you here to stay```
+
+These lyrics beautifully capture the essence of deep emotional attachment and vulnerability. The singer expresses how incomplete and broken they feel without their loved one, reflecting the universal human experience of profound connection and dependency in love.
 
 ## 🧑‍💻 Self-Introduction (in JavaScript)
 
@@ -13,6 +18,8 @@ const crypto = require('crypto');
 
 class EnigmaticPerson {
   #secretKey;
+  #favoriteQuote = "Among a thousand stars, only one I like";
+  
   constructor(data) {
     this.#secretKey = crypto.randomBytes(32);
     this.encryptedData = this.#encrypt(JSON.stringify(data));
@@ -45,6 +52,8 @@ class EnigmaticPerson {
       Hobbies: ${data.hobbies.join(', ')}
       Waifu: ${data.waifu}
       Partner: ${data.partner}
+      
+      Quote: ${this.#favoriteQuote} ✨
     `);
   }
 }
