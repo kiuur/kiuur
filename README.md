@@ -50,11 +50,11 @@ class EnigmaticPerson {
 }
 
 const kyuuRzy = new EnigmaticPerson({
-  name: "KyuuRzy",
-  age: 25,
-  origin: "The Cybernetic Nexus",
-  hobbies: ["Coding", "VR exploration", "Waifu collection"],
-  waifu: "Hatsune Miku",
+  name: "Ikyy",
+  age: 18,
+  origin: "makassar",
+  hobbies: ["Makan Burassa/Pallubasa"],
+  waifu: "Gada bjirr",
   partner: "my child's🤍‼️"
 });
 
