@@ -1,12 +1,12 @@
 # Hi, I'm KyuuRzy 👋🏼
 
-<div style="display: flex; gap: 20px; margin-bottom: 20px;">
-  <img src="https://pomf2.lain.la/f/zp8as3kp.jpg" alt="Banner Image" width="300" style="border-radius: 10px;">
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
+  <img src="https://pomf2.lain.la/f/zp8as3kp.jpg" alt="Song Image" width="200" style="border-radius: 10px;">
   <div>
-    <h2>🎵 Line Without a Hook</h2>
-    <p>"Oh, baby, I am a wreck when I'm without you"<br>
-    "I need you here to stay"</p>
-    <p><i>A song about longing and emotional dependency.</i></p>
+    <h2>🎵 Line Without a Hook - Ricky Montgomery</h2>
+    <p>"Oh, baby, I am a wreck when I'm without you<br>
+    I need you here to stay"</p>
+    <p><i>A poignant indie pop song capturing the essence of emotional dependency and vulnerability in love.</i></p>
   </div>
 </div>
 
@@ -33,11 +33,13 @@ class Person {
   }
 }
 
-new Person({
+const kyuuRzy = new Person({
   name: "Ikyy",
   age: 18,
-  origin: "makassar",
+  origin: "Makassar",
   hobbies: "Makan Burassa/Pallubasa",
   waifu: "Gada bjirr",
   partner: "my child's🤍‼️"
-}).introduce();
+});
+
+console.log(kyuuRzy.introduce());
