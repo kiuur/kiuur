@@ -1,4 +1,4 @@
 ```javascript
-Error: RangeError: terlalu banyak harapan yang belum tercapai
-    at root/perasaan/impian.js:19
-    at Object.<anonymous> (root/perasaan/impian.js:21:6)
+Error: RangeError: keadilan yang tumpul ke atas bukan sekadar ironi tapi bencana.
+    at root/realita/keadilan.js:19
+    at Object.<anonymous> (root/realita/keadilan.js:21:6)
